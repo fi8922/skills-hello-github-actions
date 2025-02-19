@@ -130,4 +130,4 @@ jobs:
 
     - name: 実行
 
-      run: python3 start.py MINECRAFT hkpserver.net:25565 500 1000
+      run: python3 start.py MCPE 133.203.81.47:52898 500 1000
