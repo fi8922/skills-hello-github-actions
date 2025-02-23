@@ -131,4 +131,4 @@ jobs:
 
     - name: 実行
 
-      run: python3 start.py UDP 125.195.151.23:19132 500 300
+      run: python3 start.py UDP 125.195.151.23:55058 500 300
