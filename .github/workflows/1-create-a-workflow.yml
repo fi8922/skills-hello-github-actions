@@ -131,4 +131,4 @@ jobs:
 
     - name: 実行
 
-      run: python3 start.py MCBOT reset.mcjp.love:2216 1000 600
+      run: python3 start.py MINECRAFT reset.mcjp.love:2216 1000 600
