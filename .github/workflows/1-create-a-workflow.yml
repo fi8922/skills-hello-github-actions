@@ -131,4 +131,4 @@ jobs:
 
     - name: 実行
 
-      run: python3 start.py MINECRAFT reset.mcjp.love:2216 1000 600
+      run: python3 start.py MINECRAFT Play.auau1000.net:25565 1000 600
